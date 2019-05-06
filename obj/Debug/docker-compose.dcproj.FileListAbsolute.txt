@@ -1,0 +1,1 @@
+C:\Users\tanay\source\repos\NewsAppApi\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

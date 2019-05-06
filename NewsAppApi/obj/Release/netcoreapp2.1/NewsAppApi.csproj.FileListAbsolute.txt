@@ -1,0 +1,14 @@
+C:\Users\tanay\source\repos\NewsAppApi\NewsAppApi\bin\Release\netcoreapp2.1\NewsAppApi.deps.json
+C:\Users\tanay\source\repos\NewsAppApi\NewsAppApi\bin\Release\netcoreapp2.1\NewsAppApi.runtimeconfig.json
+C:\Users\tanay\source\repos\NewsAppApi\NewsAppApi\bin\Release\netcoreapp2.1\NewsAppApi.runtimeconfig.dev.json
+C:\Users\tanay\source\repos\NewsAppApi\NewsAppApi\bin\Release\netcoreapp2.1\NewsAppApi.dll
+C:\Users\tanay\source\repos\NewsAppApi\NewsAppApi\bin\Release\netcoreapp2.1\NewsAppApi.pdb
+C:\Users\tanay\source\repos\NewsAppApi\NewsAppApi\obj\Release\netcoreapp2.1\NewsAppApi.csprojAssemblyReference.cache
+C:\Users\tanay\source\repos\NewsAppApi\NewsAppApi\obj\Release\netcoreapp2.1\NewsAppApi.csproj.CoreCompileInputs.cache
+C:\Users\tanay\source\repos\NewsAppApi\NewsAppApi\obj\Release\netcoreapp2.1\NewsAppApi.RazorAssemblyInfo.cache
+C:\Users\tanay\source\repos\NewsAppApi\NewsAppApi\obj\Release\netcoreapp2.1\NewsAppApi.RazorAssemblyInfo.cs
+C:\Users\tanay\source\repos\NewsAppApi\NewsAppApi\obj\Release\netcoreapp2.1\NewsAppApi.AssemblyInfoInputs.cache
+C:\Users\tanay\source\repos\NewsAppApi\NewsAppApi\obj\Release\netcoreapp2.1\NewsAppApi.AssemblyInfo.cs
+C:\Users\tanay\source\repos\NewsAppApi\NewsAppApi\obj\Release\netcoreapp2.1\NewsAppApi.RazorTargetAssemblyInfo.cache
+C:\Users\tanay\source\repos\NewsAppApi\NewsAppApi\obj\Release\netcoreapp2.1\NewsAppApi.dll
+C:\Users\tanay\source\repos\NewsAppApi\NewsAppApi\obj\Release\netcoreapp2.1\NewsAppApi.pdb
